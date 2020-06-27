@@ -1,0 +1,1 @@
+https://www.sberbank.ru/portalserver/proxy/?pipe=branchesPipe&url=http%3A%2F%2Flocalhost%2Foib-rs%2FbyBounds%2Fentities%3Fllat%3D53.110646%26llon%3D74.088719%26rlat%3D57.507152%26rlon%3D85.285440%26size%3D99999%26page%3D0%26cbLat%3D46.835967%26cbLon%3D29.606576%26filter%255Btype%255D%255B%255D%3Dfilial%26filter%255Bflags%255D%255BforPrivate%255D%3D1
